@@ -1,3 +1,3 @@
-// const inputEl = document.getElementById("input-el")
+const inputEl = document.getElementById("input-el")
 
-// console.log(inputEl)
+console.log(inputEl)
